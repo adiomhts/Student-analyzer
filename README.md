@@ -5,7 +5,7 @@
 This code is made for analyzing database about students and it can do literally nothing.
 BUT it gives a number... and thats all.
 
-there will be a picture
+![j](ггггггггггггггггггггггггггггггггггггггггггггггггг.png)
 
 
 ## What this programm actually does?
@@ -19,7 +19,7 @@ The programm is made with nearest neighbors priciple, and what does it means?
 For example: you can give the data about a Student (I don't actually know how) and it will make kinda graph (as i understand) (и здесь я понял что устал писать на английском)
 график, на котором будет отыскивать ближайших соседей по разным параметрам (однажды поставил включать в исследование 4799 соседей и мне удалось загрузить мой проц так что ноут казалось бы взлетит в космос, к слову больше не есть лучше(успешность была всего около 50 проценту))
 
-тут будет картинка
+![l](k-nearest-neighbor.svg)
 
 
 | neighbors | sucsess  | 
