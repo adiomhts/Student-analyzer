@@ -1,4 +1,3 @@
-
 # Studentы analyzer
 
 
@@ -13,12 +12,15 @@ there will be a picture
 Actually this programm can be very helpful if you want to know who would buy studying courses
 This programm analyzes really big dataframe. And studying while does that. 
 
-there will be a picture
+
 ## How it works?
 
 The programm is made with nearest neighbors priciple, and what does it means?
 For example: you can give the data about a Student (I don't actually know how) and it will make kinda graph (as i understand) (и здесь я понял что устал писать на английском)
 график, на котором будет отыскивать ближайших соседей по разным параметрам (однажды поставил включать в исследование 4799 соседей и мне удалось загрузить мой проц так что ноут казалось бы взлетит в космос, к слову больше не есть лучше(успешность была всего около 50 проценту))
+
+тут будет картинка
+
 
 | neighbors | sucsess  | 
 | :-------- | :------- | 
@@ -35,7 +37,7 @@ For example: you can give the data about a Student (I don't actually know how) a
 
 
 
-для увеличения точности приходилось прибегать к "костылям" например, в исходных данных предоставлен список языков которые знает ученик.
+для увеличения точности приходилось прибегать к "костылям", например, в исходных данных предоставлен список языков которые знает ученик.
 
-Однако машинное обучение работает по математической модели, логически можно понять что оно принимает только численные данные. Потому пришлось сделать новые данные 
+Однако машинное обучение работает по математической модели, логически можно понять что оно принимает только численные данные. Потому пришлось сделать новые данные c количеством языков, которые знает ученик.
 
