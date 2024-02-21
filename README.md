@@ -28,11 +28,3 @@ Presently, the program yields results with an accuracy ranging from 80% to 84%. 
 To improve accuracy, various strategies have been employed, including augmenting the dataset with additional features such as language proficiency. While this approach introduces complexities, particularly due to the inherently numerical nature of machine learning models, creative solutions have been devised to encode non-numeric data effectively. Specifically, the representation of language proficiency has been transformed into numerical features, thereby enabling seamless integration into the analytical framework.
 
 In conclusion, the Student Analyzer represents a fusion of advanced computational techniques and domain-specific knowledge, offering invaluable insights for educational marketing strategies.
-
-
-
-
-для увеличения точности приходилось прибегать к "костылям", например, в исходных данных предоставлен список языков которые знает ученик.
-
-Однако машинное обучение работает по математической модели, логически можно понять что оно принимает только численные данные. Потому пришлось сделать новые данные c количеством языков, которые знает ученик.
-
